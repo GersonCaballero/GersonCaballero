@@ -33,7 +33,7 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Turupawn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GersonCaballero&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="GersonCaballero" /></p>
