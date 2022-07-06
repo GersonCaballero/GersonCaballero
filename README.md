@@ -28,6 +28,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![Mariadb](https://img.shields.io/badge/-Mariadb-000?&logo=Mariadb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
 
