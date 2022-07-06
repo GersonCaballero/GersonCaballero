@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://cdn.dribbble.com/users/981298/screenshots/3816217/media/88dfd319cc1db2c373003ed45880eeae.gif">
+    <img src="https://userscontent2.emaze.com/images/2e946a86-73a3-4f86-bfbf-5e2958e42950/2b612780-a25d-42f2-893c-271bfd400108.gif">
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=GersonCaballero&count_private=true&show_icons=true&theme=chartreuse-dark">
